@@ -3,7 +3,8 @@
 ## Description
 This project implements real-time object detection using the YOLO (You Only Look Once) algorithm. It is designed to detect and classify objects in video streams or images efficiently.
 
-![alt text](yolo_output.gif)
+![yolo_output](https://github.com/user-attachments/assets/e92534aa-6f15-4bb8-98b6-d747beb3eb28)
+
 
 ## Installation Instructions
 1. Clone the repository:
